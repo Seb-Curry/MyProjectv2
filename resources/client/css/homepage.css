@@ -1,0 +1,54 @@
+body{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#logo{
+    background-color: brown;
+    padding: 20px 20px 20px 20px;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    height: 100px;
+    font-size: 75px;
+    font-family: "Comic Sans MS";
+}
+#boardOuterBox{
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: black;
+    width: 48%;
+    float: left;
+}
+.boardBox{
+    padding: 5px;
+    margin: 3px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.boardTitle{
+    text-indent: 5px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#postOuterBox{
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: black;
+    width: 48%;
+    float: right;
+}
+.postBox{
+    padding: 5px;
+    margin: 3px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.postTitle{
+    text-indent: 5px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
